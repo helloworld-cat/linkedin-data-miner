@@ -1,0 +1,16 @@
+============
+Requirements
+============
+
+The LinkedIn Data Gather (LIDG) script requires a few things to be installed on your system, specifically:
+
+#. MongoDB
+#. pyMongo
+#. bson
+#. BeautifulSoup4
+
+Standard library features that LIDG uses are:
+
+#. :py:class:`sys <python:sys>`
+#. :py:class:`comparison urllib2 <python:urllib2>`
+#. :py:class:`comparison time <python:time>`
